@@ -2,6 +2,8 @@
 
 App to search trending and specific movies
 
+Live demo: https://movie-app-puce-five.vercel.app/
+
 ## How to run the App
 
 ```pnpm install```
