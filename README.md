@@ -4,13 +4,13 @@ App to search trending and specific movies
 
 ## How to run the App
 
-````npm install``
+```npm install```
 
 Then
 
 ```npm run dev```
 
-### Tech stack
+## Tech stack
 
  - TailwindCSS
  - Vite
@@ -18,7 +18,7 @@ Then
  - React Router DOM
  - Api Themoviedb
 
- #### Improvements
+ ## Improvements
 
  - Use the react-router-dom loader could be a good option to improve performance.
 
