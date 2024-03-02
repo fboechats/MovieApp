@@ -4,7 +4,7 @@ App to search trending and specific movies
 
 ## How to run the App
 
-```npm install```
+```pnpm install```
 
 Then
 
