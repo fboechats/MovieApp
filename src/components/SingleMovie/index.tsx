@@ -5,7 +5,7 @@ import { useParams } from "react-router-dom";
 export const SingleMovie = () => {
   const { movieId } = useParams();
   const movie = useMovie(movieId);
-  console.log(movie);
+
   return (
     <section className="flex h-auto w-full flex-col gap-5 py-8 text-center sm:min-h-screen">
       <div className="flex flex-col flex-wrap items-center justify-center gap-10 sm:flex-row">
